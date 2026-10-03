@@ -50,6 +50,12 @@ node scripts/generate-readme.mjs
 | OrkasVideoStudio | Local TypeScript MCP server and CLI for coding-agent-driven video composition, editing, analysis, captions, transcription, and rendering with editable plan.json timelines. | stdio | [Homepage](https://github.com/Orkas-AI/Orkas-VideoStudio)<br>[GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 | UIZZE | Authenticated UI reference MCP for Codex, Claude Code, Cursor, and Copilot. It provides focused UI reference and hosted design-material search grounded in 800,000+ real web and iOS screens; the free anti-ui-slop Skill and GitHub Action are separate. | streamable-http | [Homepage](https://uizze.com)<br>[GitHub](https://github.com/uizze/uizze)<br>[Package](https://uizze.com/mcp) |
 
+### Developer Tools
+
+| Server | Description | Transport | Links |
+|---|---|---|---|
+| Communicate Developer Docs | Public read-only MCP server for Communicate developer documentation, OpenAPI discovery, and official support contact information. Connect at https://communicate.so/mcp; no authentication required. It does not access workspaces or customer data. | streamable-http | [Homepage](https://communicate.so/developers) |
+
 ### Files
 
 | Server | Description | Transport | Links |
